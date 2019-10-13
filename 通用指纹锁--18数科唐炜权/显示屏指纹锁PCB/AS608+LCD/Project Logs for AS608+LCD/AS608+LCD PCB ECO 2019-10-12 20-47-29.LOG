@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C NewDesignator=C?
+Change Component Designator: OldDesignator=C NewDesignator=C?
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Member To Class: ClassName=AS608+LCD Member=Component C? Cap
+Added Room: Name=AS608+LCD

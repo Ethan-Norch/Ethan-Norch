@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=D1 Old Footprint=SMC New Footprint=0805D
+Change Component Designator: OldDesignator= NewDesignator=Q2
+Change Component Designator: OldDesignator= NewDesignator=U4
+Change Component Designator: OldDesignator=Light NewDesignator=U5
+Change Component Designator: OldDesignator=R4 NewDesignator=R?
+Added Member To Class: ClassName=Sheet2 Member=Component U4 USB-A
+Added Room: Name=Sheet2

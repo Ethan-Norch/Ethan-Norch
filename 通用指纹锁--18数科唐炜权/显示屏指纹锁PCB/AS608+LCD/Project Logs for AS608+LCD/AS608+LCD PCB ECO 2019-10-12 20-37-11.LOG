@@ -1,0 +1,163 @@
+Added Component: Designator=C?(0805C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30pF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(0805D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(0805D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(0805D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(三极管)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(蜂鸣器)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q3(三极管)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q4(HDR16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(Res-JT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW?(SS12D07G5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=(HK4100F)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(XH2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(DIP40)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(USB-A贴片)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(XH4P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y?(XTAL)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=E Pin=Q4-6
+Added Pin To Net: NetName=E Pin=U2-10
+Added Net: Name=E
+Added Pin To Net: NetName=GND Pin=-5
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-16
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=Net_2 Pin=D3-1
+Added Pin To Net: NetName=Net_2 Pin=Q1-3
+Added Net: Name=Net_2
+Added Pin To Net: NetName=Net_4 Pin=-4
+Added Pin To Net: NetName=Net_4 Pin=-6
+Added Pin To Net: NetName=Net_4 Pin=U1-1
+Added Pin To Net: NetName=Net_4 Pin=U1-2
+Added Net: Name=Net_4
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U2-15
+Added Pin To Net: NetName=NetC?_1 Pin=Y?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U?-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R1-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R2-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q3-1
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R3-1
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R4-3
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ4_7 Pin=Q4-7
+Added Pin To Net: NetName=NetQ4_7 Pin=U2-18
+Added Net: Name=NetQ4_7
+Added Pin To Net: NetName=NetQ4_8 Pin=Q4-8
+Added Pin To Net: NetName=NetQ4_8 Pin=U2-19
+Added Net: Name=NetQ4_8
+Added Pin To Net: NetName=NetQ4_9 Pin=Q4-9
+Added Pin To Net: NetName=NetQ4_9 Pin=U2-20
+Added Net: Name=NetQ4_9
+Added Pin To Net: NetName=NetQ4_10 Pin=Q4-10
+Added Pin To Net: NetName=NetQ4_10 Pin=U2-21
+Added Net: Name=NetQ4_10
+Added Pin To Net: NetName=NetQ4_11 Pin=Q4-11
+Added Pin To Net: NetName=NetQ4_11 Pin=U2-22
+Added Net: Name=NetQ4_11
+Added Pin To Net: NetName=NetQ4_12 Pin=Q4-12
+Added Pin To Net: NetName=NetQ4_12 Pin=U2-23
+Added Net: Name=NetQ4_12
+Added Pin To Net: NetName=NetQ4_13 Pin=Q4-13
+Added Pin To Net: NetName=NetQ4_13 Pin=U2-24
+Added Net: Name=NetQ4_13
+Added Pin To Net: NetName=NetQ4_14 Pin=Q4-14
+Added Pin To Net: NetName=NetQ4_14 Pin=U2-25
+Added Net: Name=NetQ4_14
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U2-9
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-13
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetSW?_1 Pin=SW?-1
+Added Pin To Net: NetName=NetSW?_1 Pin=U3-1
+Added Net: Name=NetSW?_1
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Pin To Net: NetName=NetU2_5 Pin=U?-2
+Added Net: Name=NetU2_5
+Added Pin To Net: NetName=NetU2_7 Pin=U2-7
+Added Pin To Net: NetName=NetU2_7 Pin=U?-3
+Added Net: Name=NetU2_7
+Added Pin To Net: NetName=R/W Pin=Q4-5
+Added Pin To Net: NetName=R/W Pin=U2-12
+Added Net: Name=R/W
+Added Pin To Net: NetName=RS Pin=Q4-4
+Added Pin To Net: NetName=RS Pin=U2-11
+Added Net: Name=RS
+Added Pin To Net: NetName=VCC Pin=D2-1
+Added Pin To Net: NetName=VCC Pin=Q1-1
+Added Pin To Net: NetName=VCC Pin=Q3-3
+Added Pin To Net: NetName=VCC Pin=Q4-2
+Added Pin To Net: NetName=VCC Pin=Q4-15
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=SW?-2
+Added Pin To Net: NetName=VCC Pin=SW?-2
+Added Pin To Net: NetName=VCC Pin=U2-38
+Added Net: Name=VCC
+Added Class: Name=AS608+LCD
+Added Room: Name=AS608+LCD

@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=+ NewDesignator=U5
+Change Component Designator: OldDesignator= NewDesignator=Q1
+Change Component Designator: OldDesignator= NewDesignator=Q2
+Change Component Designator: OldDesignator= NewDesignator=Q3
+Change Component Designator: OldDesignator= NewDesignator=U2
+Change Component Designator: OldDesignator= NewDesignator=U3
+Change Component Designator: OldDesignator= NewDesignator=U4
+Change Component Designator: OldDesignator=R4 NewDesignator=R?
+Change Class Name : Old Net Name=Sheet2 New Net Name=AS608-small
+Added Member To Class: ClassName=AS608-small Member=Component Q1 S8550
+Added Member To Class: ClassName=AS608-small Member=Component Q2 ·äÃùÆ÷
+Added Member To Class: ClassName=AS608-small Member=Component Q3 S8550
+Added Member To Class: ClassName=AS608-small Member=Component U2 AS608
+Added Member To Class: ClassName=AS608-small Member=Component U3 ½ÓÏßÖù
+Added Member To Class: ClassName=AS608-small Member=Component U4 USB-A
+Added Member To Class: ClassName=AS608-small Member=Component U5 RGB
+Change Room Name: Old Name=Sheet2 New Name=AS608-small
+Change Room Scope: Old Scope=InComponentClass('Sheet2') New Scope=InComponentClass('AS608-small')

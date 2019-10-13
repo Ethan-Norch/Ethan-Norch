@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=C? Old Footprint=0805C New Footprint=RAD-0.3
+Change Component Footprint: Designator=C? Old Footprint=0805C New Footprint=RAD-0.3
+Change Component Designator: OldDesignator=yellow NewDesignator=D3
+Added Component: Designator=KEY?(SW5*5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=KEY?-1
+Added Pin To Net: NetName=GND Pin=KEY?-1
+Added Pin To Net: NetName=NetKEY?_2 Pin=KEY?-2
+Added Pin To Net: NetName=NetKEY?_2 Pin=KEY?-2
+Added Pin To Net: NetName=NetKEY?_2 Pin=U2-1
+Added Net: Name=NetKEY?_2
+Added Member To Class: ClassName=AS608+LCD Member=Component C? Cap
+Added Member To Class: ClassName=AS608+LCD Member=Component D3 LED-YELLOW
+Added Member To Class: ClassName=AS608+LCD Member=Component KEY? 功能按键
+Added Member To Class: ClassName=AS608+LCD Member=Component  继电器HK4100F
+Added Member To Class: ClassName=AS608+LCD Member=Component U1 接线柱
+Added Member To Class: ClassName=AS608+LCD Member=Component U2 STC89CXX
+Added Member To Class: ClassName=AS608+LCD Member=Component U3 USB-A
+Added Member To Class: ClassName=AS608+LCD Member=Component U? s
+Added Member To Class: ClassName=AS608+LCD Member=Component Y? 12MHZ
+Added Room: Name=AS608+LCD

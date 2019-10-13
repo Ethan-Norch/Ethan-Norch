@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C? Old Footprint=0805C New Footprint=RAD-0.3
+Change Component Footprint: Designator=C? Old Footprint=0805C New Footprint=RAD-0.3
+Change Component Designator: OldDesignator=yellow NewDesignator=D3
+Added Member To Class: ClassName=AS608+LCD Member=Component C? Cap
+Added Room: Name=AS608+LCD
