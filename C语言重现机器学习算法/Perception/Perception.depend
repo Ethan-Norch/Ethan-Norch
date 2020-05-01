@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587932159 source:g:\数据结构\tutorial3-7\perception\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

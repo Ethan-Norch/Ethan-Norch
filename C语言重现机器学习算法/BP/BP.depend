@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588074189 source:g:\数据结构\tutorial3-7\bp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<float.h>
+	<math.h>
+	<time.h>
+

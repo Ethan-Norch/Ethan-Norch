@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587963554 source:g:\数据结构\tutorial3-7\regressiontrees\main.c
+	<stdio.h>
+	<stdlib.h>
+

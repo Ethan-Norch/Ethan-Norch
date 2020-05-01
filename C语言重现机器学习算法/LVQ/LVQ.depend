@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588045887 source:g:\数据结构\tutorial3-7\lvq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587949905 source:g:\数据结构\tutorial3-7\multivariatelinearregression\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
